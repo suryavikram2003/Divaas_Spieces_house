@@ -6,7 +6,6 @@ import Home from './pages/Home'
 import Products from './pages/Products'
 import ProductDetail from './pages/ProductDetail'
 import Inquiry from './pages/Inquiry'
-import './index.css'
 
 function App() {
   return (

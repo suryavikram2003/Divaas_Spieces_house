@@ -21,7 +21,7 @@ export default function Navbar() {
             <Link to="/products" className="hover:text-orange-100 transition">Products</Link>
             <Link to="/inquiry" className="hover:text-orange-100 transition">Get Quote</Link>
             <a 
-              href="https://wa.me/919876543210?text=Hi%20Divaas%20Spices,%20I%20want%20to%20order%20bulk%20spices"
+              href="https://wa.me/917448361008?text=Hi%20Divaas%20Spices,%20I%20want%20to%20order%20bulk%20spices"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center space-x-2 bg-green-500 px-4 py-2 rounded-lg hover:bg-green-600 transition"
@@ -47,7 +47,7 @@ export default function Navbar() {
             <Link to="/products" className="block px-4 py-2 hover:bg-orange-700 rounded transition">Products</Link>
             <Link to="/inquiry" className="block px-4 py-2 hover:bg-orange-700 rounded transition">Get Quote</Link>
             <a 
-              href="https://wa.me/919876543210?text=Hi%20Divaas%20Spices,%20I%20want%20to%20order%20bulk%20spices"
+              href="https://wa.me/917448361008?text=Hi%20Divaas%20Spices,%20I%20want%20to%20order%20bulk%20spices"
               target="_blank"
               rel="noopener noreferrer"
               className="block px-4 py-2 bg-green-500 rounded hover:bg-green-600 transition"
